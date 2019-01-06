@@ -5,7 +5,9 @@ Download bootstrap
 
 | Date  | Block | Files |
 | --- | --- | --- |
-| Jan 06, 2019 | 620010 | ([zip]) |
+| Jan 06, 2019 | 620010 | (zip) |
+
+Found under Releases
 
 ### Step 2
 Extract and move `bootstrap.dat` into data directory
