@@ -22,3 +22,7 @@ Run wallet and let it sync using `bootstrap.dat`
 Once synced `bootstrap.dat` will be renamed `bootstrap.dat.old` and can be safely removed
 
 ### Credits - THX to apaulb for the readme ;-)
+
+
+if there is a neet to update the Bootstrap plz ask on discordapp.com -> SimpliCity
+THX
