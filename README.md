@@ -24,5 +24,5 @@ Once synced `bootstrap.dat` will be renamed `bootstrap.dat.old` and can be safel
 ### Credits - THX to apaulb for the readme ;-)
 
 
-if there is a neet to update the Bootstrap plz ask on discordapp.com -> SimpliCity
+if there is a need to update the Bootstrap plz ask on discordapp.com -> SimpliCity
 THX
