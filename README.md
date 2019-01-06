@@ -21,4 +21,4 @@ Run wallet and let it sync using `bootstrap.dat`
 ### Step 4
 Once synced `bootstrap.dat` will be renamed `bootstrap.dat.old` and can be safely removed
 
-### Credids - THX to apaulb for the readme ;-)
+### Credits - THX to apaulb for the readme ;-)
